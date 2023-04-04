@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/sky.png</file>
+        <file>images/trawa.png</file>
+        <file>images/woda_minecraft.jfif</file>
+        <file>images/droga 800x100.png</file>
+        <file>images/drewno.png</file>
+        <file>images/choinkaproba2.png</file>
+        <file>images/sky4.png</file>
+        <file>images/samochodwLewoGIMP.png</file>
+        <file>images/samochodwLewo2GIMP.png</file>
+        <file>images/samochodwPrawo2GIMP.png</file>
+        <file>images/samochodwPrawoGIMP.png</file>
+        <file>images/zabaGIMP.png</file>
+    </qresource>
+</RCC>
