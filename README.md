@@ -8,5 +8,9 @@ A simple computer game made in C++ in the Qt environment. The player is a frog w
 
 ## GamePlay
 
+<div align="center">
+  
 https://user-images.githubusercontent.com/129839231/229739343-09b3c11e-efe7-4fcb-9bb5-db044d435896.mp4
+  
+</div>
 
